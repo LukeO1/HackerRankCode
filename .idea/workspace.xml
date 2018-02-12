@@ -15,11 +15,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MergeSortCountingInversions.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MergeSortCountingInversions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CrackingTheCodingInterview/MergeSortCountingInversions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="969">
               <caret line="57" column="59" lean-forward="false" selection-start-line="57" selection-start-column="59" selection-end-line="57" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IsThisABinarySearchTree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CrackingTheCodingInterview/IsThisABinarySearchTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="40" lean-forward="false" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -38,6 +48,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CrackingTheCodingInterview/MergeSortCountingInversions.py" />
+        <option value="$PROJECT_DIR$/CrackingTheCodingInterview/IsThisABinarySearchTree.py" />
       </list>
     </option>
   </component>
@@ -303,8 +314,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CrackingTheCodingInterview/MergeSortCountingInversions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="969">
           <caret line="57" column="59" lean-forward="false" selection-start-line="57" selection-start-column="59" selection-end-line="57" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrackingTheCodingInterview/IsThisABinarySearchTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="40" lean-forward="false" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
           <folding />
         </state>
       </provider>
